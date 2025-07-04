@@ -1,0 +1,11 @@
+1. Brave'e girin. veya chrome, eklentiler sekmesini bulun,
+2. sağ üstten geliştirici modunu açın.
+3. rar'ı klasöre ayıklayın.
+4. paketlenmemiş öğe yükle sekmesine girin.
+5. dosyanın içine girene kadar girin ve tamam a tıklayın (flexop dosyası) .
+6. oyuna girin, herhangi bir odada alt+q ya basın.
+7. sağ altta gözüken hack veya record tuşuna basın.
+8. valuesten op için değerleri girin ve show menuye basıp opmode a tıklayarak aktive edin.
+9. hilenizin tadını çıkarın :)
+
+can kardeşiniz :) -flexible.
